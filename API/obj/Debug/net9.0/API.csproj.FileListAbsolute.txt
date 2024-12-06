@@ -144,3 +144,4 @@ C:\Users\xande\source\repos\DatingApp\API\bin\Debug\net9.0\runtimes\win-arm64\na
 C:\Users\xande\source\repos\DatingApp\API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\xande\source\repos\DatingApp\API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\xande\source\repos\DatingApp\API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\xande\source\repos\DatingApp\API\obj\Debug\net9.0\API.sourcelink.json

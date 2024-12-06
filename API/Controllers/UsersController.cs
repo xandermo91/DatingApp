@@ -13,6 +13,7 @@ namespace API.Controllers
         public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
         {
             return await context.Users.ToListAsync();
+
         }
 
         [HttpGet("{id:int}")]   // api/users/1
